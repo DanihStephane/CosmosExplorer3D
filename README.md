@@ -45,7 +45,7 @@ Découvrez une représentation interactive et animée du système solaire en dir
    ```
 2. Accédez au dossier du projet :
    ```bash
-   cd solar-system-3d
+   cd CosmosExplorer3D
    ```
 3. Installez les dépendances :
    ```bash
