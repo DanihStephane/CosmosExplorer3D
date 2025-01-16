@@ -1,3 +1,5 @@
+Application encore en cours ... n'henisetez pas à y contribuer
+
 # Système Solaire 3D 🌌
 
 Un projet moderne React illustrant le système solaire avec des fonctionnalités captivantes, telles que des planètes en 3D avec des animations de rotation et d'évolution, et un mode sombre immersif.
@@ -8,7 +10,7 @@ Un projet moderne React illustrant le système solaire avec des fonctionnalités
 
 Découvrez une représentation interactive et animée du système solaire en direct !
 
-[Accéder à la démo](#) *(Ajoutez l'URL ici)*
+[Accéder à la démo](#) en cours ...
 
 ---
 
@@ -104,8 +106,8 @@ Les contributions sont les bienvenues !
 
 Pour toute question ou suggestion, n'hésitez pas à me contacter :
 
-- **Email** : votre.email@example.com
-- **LinkedIn** : [Votre Profil](#)
+- **Email** : danih.rakotoarison@gmail.com   
+- **LinkedIn** : [Rakotoarison Harilanto Danih Stephane](https://www.linkedin.com/in/danihstephane/)
 
 ---
 
