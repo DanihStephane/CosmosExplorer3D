@@ -4,6 +4,11 @@ Application encore en cours ... n'henisetez pas à y contribuer
 
 Un projet moderne React illustrant le système solaire avec des fonctionnalités captivantes, telles que des planètes en 3D avec des animations de rotation et d'évolution, et un mode sombre immersif.
 
+![Capture d’écran du 2025-01-16 11-28-11](https://github.com/user-attachments/assets/04b8976c-22c4-43d2-b89b-b8f432a4928f)
+
+![Capture d’écran du 2025-01-16 11-28-41](https://github.com/user-attachments/assets/9c90f01f-4677-4354-91ff-27f33188e9de)
+
+
 ---
 
 ## 🖥️ Démo
