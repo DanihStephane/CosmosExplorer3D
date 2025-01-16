@@ -36,7 +36,7 @@ Découvrez une représentation interactive et animée du système solaire en dir
 
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/votre-utilisateur/solar-system-3d.git
+   git clone git@github.com:DanihStephane/CosmosExplorer3D.git
    ```
 2. Accédez au dossier du projet :
    ```bash
@@ -85,7 +85,7 @@ src/
 
 ## 🛡️ Licence
 
-Ce projet est sous licence [MIT](LICENSE).
+[FREE](LICENSE).
 
 ---
 
